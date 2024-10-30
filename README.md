@@ -1,3 +1,7 @@
+## setup  
+A ```dockerfile``` is provided for quick setup.  
+Otherwise, use ```requirements.txt```.  
+
 ## email_crawler.py
 This is the main program that extracts emails by:
   
