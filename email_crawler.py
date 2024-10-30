@@ -39,11 +39,11 @@ def configure_logging():
 def process_page(page, keyword, starting_index):
     # APIs
         try:
-            get_url = f"https://mrhost.xcodemy.com/api/getCustomerInfoList?keyword={keyword}&page={page}"
+            get_url = f"https://path/keyword={keyword}&page={page}" # change this to your own API
             urls = get_urls(get_url)
             sliced_urls = list(urls.keys())
-            post_url = "https://mrhost.xcodemy.com/api/setCustomerEmail"
-            logging.critical(f"Starting page {page}")
+            post_url = "https://path" # change this to your own API
+            logging.critical(f"Starting page {page}") 
         except Exception as e:
             logging.error(f"Failed to fetch API: {e}")
 
