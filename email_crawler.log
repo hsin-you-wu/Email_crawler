@@ -1,0 +1,41 @@
+2024-10-24 10:18:47,242 - CRITICAL - Starting page 1
+2024-10-24 10:18:47,243 - INFO - ##################################### page 1 (1) #####################################
+2024-10-24 10:18:47,244 - INFO - visiting ID: 670 (https://www.penlaihome.com.tw/index.php)
+2024-10-24 10:18:47,454 - INFO - Starting Chromium download.
+2024-10-24 10:19:09,529 - INFO - Beginning extraction
+2024-10-24 10:19:11,536 - INFO - Chromium extracted to: /root/.local/share/pyppeteer/local-chromium/1181205
+2024-10-24 10:19:41,618 - ERROR - Failed to load https://www.penlaihome.com.tw/index.php: Browser closed unexpectedly:
+
+2024-10-24 10:19:41,648 - INFO - Found: 0 | Filtered: 0 | Written: 0
+2024-10-24 10:19:42,076 - INFO - {"message":"Data updated successfully"}
+2024-10-24 10:19:44,077 - INFO - ##################################### page 1 (2) #####################################
+2024-10-24 10:19:44,079 - INFO - visiting ID: 896 (http://www.forestybnb.com/)
+2024-10-24 10:20:15,465 - ERROR - Failed to load http://www.forestybnb.com/: Browser closed unexpectedly:
+
+2024-10-24 10:20:15,467 - INFO - Found: 0 | Filtered: 0 | Written: 0
+2024-10-24 10:20:15,978 - INFO - {"message":"Data updated successfully"}
+2024-10-24 10:20:17,980 - INFO - ##################################### page 1 (3) #####################################
+2024-10-24 10:20:17,981 - INFO - visiting ID: 1141 (https://taroko.lakeshore.com.tw/)
+2024-10-24 10:20:48,168 - ERROR - Failed to load https://taroko.lakeshore.com.tw/: Browser closed unexpectedly:
+
+2024-10-24 10:20:48,170 - INFO - Found: 0 | Filtered: 0 | Written: 0
+2024-10-24 10:20:48,628 - INFO - {"message":"Data updated successfully"}
+2024-10-24 10:20:50,629 - INFO - ##################################### page 1 (4) #####################################
+2024-10-24 10:20:50,631 - INFO - visiting ID: 1149 (https://owlstay.travel/hualien/)
+2024-10-24 10:21:21,239 - ERROR - Failed to load https://owlstay.travel/hualien/: Browser closed unexpectedly:
+
+2024-10-24 10:21:21,239 - INFO - Found: 0 | Filtered: 0 | Written: 0
+2024-10-24 10:21:21,482 - INFO - {"message":"Data updated successfully"}
+2024-10-24 10:21:23,525 - INFO - ##################################### page 1 (5) #####################################
+2024-10-24 10:21:23,527 - INFO - visiting ID: 1183 (http://www.seahualien.com/)
+2024-10-24 10:21:53,773 - ERROR - Failed to load http://www.seahualien.com/: Browser closed unexpectedly:
+
+2024-10-24 10:21:53,775 - INFO - Found: 0 | Filtered: 0 | Written: 0
+2024-10-24 10:21:54,043 - INFO - {"message":"Data updated successfully"}
+2024-10-24 10:21:56,045 - INFO - ##################################### page 1 (6) #####################################
+2024-10-24 10:21:56,046 - INFO - visiting ID: 1444 (https://booking.owlting.com/sugar5?start=2023-11-13&end=2023-11-)
+2024-10-24 10:22:06,948 - ERROR - Failed to load https://booking.owlting.com/sugar5?start=2023-11-13&end=2023-11-: This event loop is already running
+2024-10-24 10:22:06,949 - INFO - Found: 0 | Filtered: 0 | Written: 0
+2024-10-24 10:22:07,395 - INFO - {"message":"Data updated successfully"}
+2024-10-24 10:22:09,396 - INFO - ##################################### page 1 (7) #####################################
+2024-10-24 10:22:09,398 - INFO - visiting ID: 1729 (https://www.facebook.com/%E6%99%82%E9%81%87Meet-BB-1025495319431)

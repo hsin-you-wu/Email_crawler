@@ -1,0 +1,4 @@
+requests
+requests-html
+tenacity
+lxml_html_clean
